@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/reactAppDecisionlinks/static/css/main.40c369f8.css",
+    "main.js": "/reactAppDecisionlinks/static/js/main.b8628b44.js",
+    "index.html": "/reactAppDecisionlinks/index.html",
+    "main.40c369f8.css.map": "/reactAppDecisionlinks/static/css/main.40c369f8.css.map",
+    "main.b8628b44.js.map": "/reactAppDecisionlinks/static/js/main.b8628b44.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.40c369f8.css",
+    "static/js/main.b8628b44.js"
+  ]
+}
