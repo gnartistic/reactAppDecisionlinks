@@ -2,6 +2,8 @@
   [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
   
   deployment: https://gnartistic.github.io/reactAppDecisionlinks
+
+  <img src="./assets/ss1.png" alt="friends-page" width="600"/>
   ## Description
   
   This is an example of data that I've fetched from an API in order to demonstrate my knowledge of fetching data using react-query's custom hooke `useQuery()`.
