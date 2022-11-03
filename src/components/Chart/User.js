@@ -17,8 +17,8 @@ const User = ( { user } ) =>
             </td>
             <td>
                 {/* user's website as a link */}
-                <a href={user.website}>
-                    {user.website}
+                <a href={`http://${ user.website }`}>
+                    http://{user.website}
                 </a>
             </td>
             <td>
