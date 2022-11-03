@@ -1,0 +1,29 @@
+.table {
+    display: flex;
+    flex-wrap: nowrap;
+    justify-content: center;
+
+    th {
+        text-align: left;
+        padding: 10px;
+        margin: -5px;
+        color: white;
+        font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+        border: 2px solid black;
+        background-color: #215DB0;
+    }
+
+    td {
+        text-align: left;
+        padding: 10px;
+        margin: -5px;
+        font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+        border: 2px solid #444;
+        background-color: rgb(242, 240, 240);
+
+        a {
+            color: #215DB0;
+            text-decoration: none;
+        }
+    }
+}

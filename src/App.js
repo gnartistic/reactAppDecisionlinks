@@ -10,11 +10,9 @@ function App() {
   return (
       <>
       <QueryClientProvider client={queryClient}>
-        <div className='app'>
-          <h1>Data</h1>
-          <table>
+        <div className='App'>
+          <h1>User API Data</h1>
             <Chart />
-            </table>
         </div>
         </QueryClientProvider>
       </>
